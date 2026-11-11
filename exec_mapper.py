@@ -1,1 +1,1 @@
-import jsonscanner as js
+import jsoninterface as ji

@@ -5,5 +5,4 @@ python shell commands directly from the project terminal and custom written comm
 It provides a simple interface for executing Python code.
 
 ### Syntax
-'''
-|$> echo ;^Hello World^
+'''|$> echo ;^Hello World^'''

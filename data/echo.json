@@ -1,11 +1,12 @@
 {
-  "name" : "echo",
-  "args" : {
-    "H" : "print('Returns arg 1 if arg 1 is a string argument')"
+  "name": "echo",
+  "args": {
+    "H": "print('Returns arg 1 if arg 1 is a string argument')"
+    "none": ""
   },
   "desc": {
     "flags": {
-      ";H": "Help",
+      "H": "Help",
       "none": "Returns arg 1 if arg 1 is a string argument"
     }
   }
